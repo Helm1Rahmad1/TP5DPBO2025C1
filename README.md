@@ -87,12 +87,13 @@ d. **Menghapus Data Mahasiswa (Delete)**
 ## 3. **Validasi dan Error Handling**
 
 - Validasi Input:
-  - Memeriksa apakah NIM hanya berisi angka.
   - Memastikan semua kolom wajib diisi.
   - Mencegah duplikasi NIM.
 - Error Handling:
   - Menangani kegagalan koneksi database.
   - Menampilkan pesan kesalahan jika query SQL gagal.
+  - Menampilkan jika ada duplikasi NIM
+  - Menampilkan pesan jika kolom tidak terisi semua
 
 
 # Dokumentasi 
