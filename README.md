@@ -109,7 +109,7 @@ d. **Menghapus Data Mahasiswa (Delete)**
 
 <img width="250" src="https://github.com/user-attachments/assets/f2a6e441-b749-43ba-b5be-530af5905eb8" /> <img width="250" src="https://github.com/user-attachments/assets/d7208bae-c58a-4ba7-9be1-c3200b66acbf" /> <img width="250" src="https://github.com/user-attachments/assets/a38b20ee-6591-461f-8cda-6668e586b265" />
 
-**Error Handling**
+**Dialog Error Input**
 
 <img width="250" src="https://github.com/user-attachments/assets/3ace480d-98f8-4a34-8f93-7a18a89869c2" /> <img width="250" src="https://github.com/user-attachments/assets/d4e6c34d-da55-4d60-9628-063402cc2175" /> <img width="250" src="https://github.com/user-attachments/assets/05bc68f9-5f57-4aa2-a42d-e18680bbf0b6" />
 
