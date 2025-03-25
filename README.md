@@ -97,21 +97,20 @@ d. **Menghapus Data Mahasiswa (Delete)**
 
 # Dokumentasi 
 
-**Insert**  
-<img width="300" alt="Insert Form" src="https://github.com/user-attachments/assets/260df51c-6326-47cf-b475-aca28e47b430" />
-<img width="300" alt="Insert Validation" src="https://github.com/user-attachments/assets/46b2059a-182f-48b2-bc71-ed12973eefe4" />
-<img width="300" alt="Insert Result" src="https://github.com/user-attachments/assets/a9b0ff5a-dc71-4683-a150-17bf5e29cd37" />
+**Create**
 
-**Update**  
-<img width="300" alt="Update Form" src="https://github.com/user-attachments/assets/2d1d3fbf-0cb4-4e66-a4c0-ddf9c4d699b4" />
-<img width="300" alt="Update Process" src="https://github.com/user-attachments/assets/2096049d-7522-4703-91b7-7cd9aa4b03e7" />
-<img width="300" alt="Update Result" src="https://github.com/user-attachments/assets/29e8b6ba-bfd3-419d-b107-95fb81f81c4d" />
+<img width="250" src="https://github.com/user-attachments/assets/cc855462-ec2d-4e11-875e-c72725f5a0c5" /> <img width="250" src="https://github.com/user-attachments/assets/cca0ed99-e41f-42f8-8e2a-ff02e8023f1f" /> <img width="250" src="https://github.com/user-attachments/assets/412656c6-f822-49b2-83db-d6e80f72eca2" />
 
-**Delete**  
-<img width="300" alt="Before Delete" src="https://github.com/user-attachments/assets/414e177a-8bc6-4bb1-9bad-142a787e069a" />
-<img width="300" alt="Delete Confirmation" src="https://github.com/user-attachments/assets/c206b62e-c227-429d-8ea2-7a3170beb273" />
-<img width="300" alt="After Delete" src="https://github.com/user-attachments/assets/dcb20328-61e7-42ff-bb87-851de2fb5bee" />
+**Update**
 
-**Validasi Error**  
-<img width="300" alt="Error 1" src="https://github.com/user-attachments/assets/a0323f8d-ffe0-4c69-99bc-393dc08e2eed" />
-<img width="300" alt="Error 2" src="https://github.com/user-attachments/assets/266200e4-4952-48d3-9edd-f766fec7ff0b" />
+<img width="250" src="https://github.com/user-attachments/assets/3b5ef1ed-7ffa-42fe-b8d1-ef0aa807dcae" /> <img width="250" src="https://github.com/user-attachments/assets/e45c5c5a-7ee8-4b04-a1e8-6903d5a0063b" /> <img width="250" src="https://github.com/user-attachments/assets/a0b7de5e-01e9-4da4-92f7-bb902c5f76e2" />
+
+**Delete**
+
+<img width="250" src="https://github.com/user-attachments/assets/f2a6e441-b749-43ba-b5be-530af5905eb8" /> <img width="250" src="https://github.com/user-attachments/assets/d7208bae-c58a-4ba7-9be1-c3200b66acbf" /> <img width="250" src="https://github.com/user-attachments/assets/a38b20ee-6591-461f-8cda-6668e586b265" />
+
+**Error Handling**
+
+<img width="250" src="https://github.com/user-attachments/assets/3ace480d-98f8-4a34-8f93-7a18a89869c2" /> <img width="250" src="https://github.com/user-attachments/assets/d4e6c34d-da55-4d60-9628-063402cc2175" /> <img width="250" src="https://github.com/user-attachments/assets/05bc68f9-5f57-4aa2-a42d-e18680bbf0b6" />
+
+
